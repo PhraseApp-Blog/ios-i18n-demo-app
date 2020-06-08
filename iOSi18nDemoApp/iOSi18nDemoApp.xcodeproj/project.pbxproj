@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD85FBF6248E450E00F666BD /* DemoAppAssets.zip in Resources */ = {isa = PBXBuildFile; fileRef = DD85FBF5248E450E00F666BD /* DemoAppAssets.zip */; };
 		DDA72AF2248492B700864D73 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDA72AF1248492B700864D73 /* AppDelegate.swift */; };
 		DDA72AF4248492B700864D73 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDA72AF3248492B700864D73 /* SceneDelegate.swift */; };
 		DDA72AF6248492B700864D73 /* WelcomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDA72AF5248492B700864D73 /* WelcomeController.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DD85FBF5248E450E00F666BD /* DemoAppAssets.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = DemoAppAssets.zip; sourceTree = "<group>"; };
 		DDA72AEE248492B700864D73 /* iOSi18nDemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSi18nDemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDA72AF1248492B700864D73 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DDA72AF3248492B700864D73 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				DDA72AF3248492B700864D73 /* SceneDelegate.swift */,
 				DDA72B072484937900864D73 /* HomeCell.swift */,
 				DDA72B052484934300864D73 /* HomeController.swift */,
+				DD85FBF5248E450E00F666BD /* DemoAppAssets.zip */,
 				DDA72B09248493B700864D73 /* HeaderView.swift */,
 				DDA72AF5248492B700864D73 /* WelcomeController.swift */,
 				DDA72B0B2484940200864D73 /* String+Extension.swift */,
@@ -140,6 +143,7 @@
 				DDA72AFE248492BA00864D73 /* LaunchScreen.storyboard in Resources */,
 				DDA72AFB248492BA00864D73 /* Assets.xcassets in Resources */,
 				DDA72AF9248492B700864D73 /* Main.storyboard in Resources */,
+				DD85FBF6248E450E00F666BD /* DemoAppAssets.zip in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
