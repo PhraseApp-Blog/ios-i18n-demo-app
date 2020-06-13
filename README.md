@@ -1,5 +1,5 @@
-## iOSi18nDemoApp
+## iOS i18n Demo App
 
-This is a simple app developed to help us with the steps in the internationalization and localization process of an iOS App as outlined in the reference article. This is an app that displays the solar planet systems we have.
+This is a simple app displaying the solar planet systems we have and developed to help you with internationalizing and localizing an iOS app.
 
-The project is structured to help us understand this process if we are coming from the background of using storyboards or programmatic UI or a combination of both in laying out our UI components. So, whichever method you adopts, you are well covered. The aim of this project is to show you the steps in localizing your text contents and also assets in your iOS applications.
+The project is structured in a way that allows you to get a better undestanding of the i18n process if you have a background of using storyboards or programmatic UI or a combination of both in laying out UI components. Whichever method you adopt, you are well covered. Our iOS tutorial will show you how to localize your text content and assets in your iOS app.
